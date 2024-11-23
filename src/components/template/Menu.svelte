@@ -13,9 +13,9 @@
     <MenuItem texto="Séries" />
   </MenuItens>
   <MenuItens titulo="Principais autores">
-    <MenuItem texto="Akira Toriyama" />
-    <MenuItem texto="Eiichiro Oda" />
-    <MenuItem texto="Masashi Kishimoto" />
+    <MenuItem texto="J. K. Rowling" url="/autores/j-k-rowling" />
+    <MenuItem texto="J. R. R. Tolkien" url="/autores/j-r-r-tolkien" />
+    <MenuItem texto="George Martin" url="/autores/george-martin" />
   </MenuItens>
   <MenuItens titulo="Outras categorias">
     <MenuItem texto="Últimas notícias" />
