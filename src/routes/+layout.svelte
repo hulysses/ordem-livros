@@ -1,12 +1,9 @@
 <script lang="ts">
   import "../app.css";
   let { children } = $props();
-  import Logo from "../components/template/Logo.svelte";
+  import Pagina from "../components/template/Pagina.svelte";
 </script>
 
-<div
-  class="bg-black flex flex-col justify-center items-center min-h-screen text-white"
->
-  <Logo />
+<Pagina>
   {@render children()}
-</div>
+</Pagina>

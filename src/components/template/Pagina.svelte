@@ -1,0 +1,10 @@
+<script>
+  import Cabecalho from "./Cabecalho.svelte";
+</script>
+
+<div class="flex flex-col min-h-screen bg-black text-white">
+  <main>
+    <Cabecalho />
+    <slot />
+  </main>
+</div>
