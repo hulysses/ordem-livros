@@ -9,7 +9,7 @@
   <MenuItens titulo="Navegação">
     <MenuItem texto="Início" />
     <MenuItem texto="Personagens" />
-    <MenuItem texto="Autores" />
+    <MenuItem texto="Autores" url="/autores"/>
     <MenuItem texto="Séries" />
   </MenuItens>
   <MenuItens titulo="Principais autores">

@@ -80,7 +80,7 @@ O impacto de J.R.R. Tolkien na literatura é imenso, e sua criação da Terra M�
         `,
   },
   {
-    id: "george-r-r-martin",
+    id: "george-martin",
     nome: "George R.R. Martin",
     imagem:
       "https://musicaecinema.com/wp-content/uploads/2024/11/george-rr-martin-spin-off-arya-stark-1024x576.webp",
